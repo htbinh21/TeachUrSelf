@@ -1,0 +1,9 @@
+D:\Test Projects\TestGetALink\TestGetALink\bin\Debug\TestGetALink.exe.config
+D:\Test Projects\TestGetALink\TestGetALink\bin\Debug\TestGetALink.exe
+D:\Test Projects\TestGetALink\TestGetALink\bin\Debug\TestGetALink.pdb
+D:\Test Projects\TestGetALink\TestGetALink\obj\Debug\TestGetALink.csprojResolveAssemblyReference.cache
+D:\Test Projects\TestGetALink\TestGetALink\obj\Debug\TestGetALink.exe
+D:\Test Projects\TestGetALink\TestGetALink\obj\Debug\TestGetALink.pdb
+C:\Users\binhht\Desktop\TestGetALink\TestGetALink\TestGetALink\bin\Debug\TestGetALink.exe.config
+C:\Users\binhht\Desktop\TestGetALink\TestGetALink\TestGetALink\obj\Debug\TestGetALink.exe
+C:\Users\binhht\Desktop\TestGetALink\TestGetALink\TestGetALink\obj\Debug\TestGetALink.pdb
